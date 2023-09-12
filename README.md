@@ -17,4 +17,4 @@
 
 A collection of Next.js examples for integrating Sphere's API and SDK into your app.
 
-Enables developers to create their own customer frontend checkout experience while using Sphere for backend payments processing.
+Create your own customer frontend checkout experience while using Sphere for backend payments processing.
