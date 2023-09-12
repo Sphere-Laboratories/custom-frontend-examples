@@ -4,7 +4,7 @@
     <a>
         <img alt="Sphere" src="https://avatars.githubusercontent.com/u/109333730?s=200&v=4" width="95"/>
     </a>
-  <h1 style="margin-top:20px;">nextjs-react-sdk</h1>
+  <h1 style="margin-top:20px;">Custom Frontend - React SDK</h1>
 </div>
 
 # Overview
