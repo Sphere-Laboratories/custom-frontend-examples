@@ -4,7 +4,7 @@
     <a>
         <img alt="Sphere" src="https://avatars.githubusercontent.com/u/109333730?s=200&v=4" width="95"/>
     </a>
-  <h1 style="margin-top:20px;">nextjs-react-custom</h1>
+  <h1 style="margin-top:20px;">Directly use the API to create your own frontend</h1>
 </div>
 
 # Overview
@@ -48,7 +48,7 @@ yarn run dev
 Navigating to `http://localhost:3000` will give:
 
 <div align="center">
-<img src="../../../assets/nestjs-react.png" width="800" height="550"/>
+<img src="../assets/nestjs-react.png" width="800" height="550"/>
 </div>
 
 ## Notes:
