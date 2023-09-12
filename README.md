@@ -4,7 +4,7 @@
     <a>
         <img alt="Sphere" src="https://avatars.githubusercontent.com/u/109333730?s=200&v=4" width="100"/>
     </a>
-  <h1 style="margin-top:20px;">examples</h1>
+  <h1 style="margin-top:20px;">Custom Frontend Examples</h1>
 
   <p>
     <a href="/"><img alt="Docs" src="https://img.shields.io/badge/docs-tutorials-aquamarine" /></a>
@@ -15,12 +15,6 @@
 
 # Overview
 
-This repository contains a collection of technical examples using Sphere's APIs and SDKs.
+A collection of Next.js examples for integrating Sphere's API and SDK into your app.
 
-# Examples
-
-1. `jobs` - A collection of commonly requested job scripts.
-2. `nestjs-react` - A collection of Nextjs example apps demonstrating how to integrate Sphere into your webapps.
-3. `recurring` - A collection of commonly used recurring payment scripts.
-4. `webhook-signing` - Verify Sphere webhook event payloads via `hmac` signature verification.
-5. `payouts` - A collection of commonly requested payout scripts.
+Enables developers to create their own customer frontend checkout experience while using Sphere for backend payments processing.
