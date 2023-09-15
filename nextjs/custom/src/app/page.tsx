@@ -50,6 +50,9 @@ export default function Home() {
       `https://api.spherepay.co/v1/public/paymentLink/pay/${paymentLinkId}?${qs.stringify(
         {
           lineItems: JSON.stringify(query),
+          meta: JSON.stringify({
+            uuid: "your_internal_uuid"
+          })
         },
       )}`,
       {
